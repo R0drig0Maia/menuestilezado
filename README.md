@@ -1,2 +1,2 @@
 # menu estilezado
-https://lnkd.in/dYhbSyAR
+https://menuestilizado.netlify.app
